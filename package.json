@@ -1,0 +1,23 @@
+{
+  "name": "@cross2d/react-web-storage",
+  "version": "1.0.0",
+  "description": "This is a local storage wrapper for both react-native(AsyncStorage) and browser(localStorage). [ES6](http://babeljs.io/docs/learn-es2015/) syntax, promise for async load, fully tested with jest.",
+  "main": "storage.js",
+  "scripts": {
+    "release":"npm publish --access public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cross2d/react-web-storage.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cross2d/react-web-storage/issues"
+  },
+  "devDependencies": {
+    "babel-jest": "^5.3.0",
+    "jest-cli": "^0.8.0"
+  },
+  "homepage": "https://github.com/cross2d/react-web-storage#readme"
+}
